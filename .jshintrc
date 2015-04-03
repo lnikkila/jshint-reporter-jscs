@@ -1,0 +1,16 @@
+{
+  "bitwise": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "freeze": true,
+  "maxcomplexity": 10,
+  "maxdepth": 3,
+  "noarg": true,
+  "nocomma": true,
+  "node": true,
+  "nonbsp": true,
+  "nonew": true,
+  "singleGroups": true,
+  "unused": "vars"
+}

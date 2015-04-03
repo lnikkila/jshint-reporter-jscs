@@ -1,0 +1,38 @@
+{
+  "name": "jshint-reporter-jscs",
+  "version": "0.1.0",
+  "description": "JSHint reporter that looks like the JSCS default reporter.",
+  "main": "source/reporter.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lnikkila/jshint-reporter-jscs"
+  },
+  "keywords": [
+    "jshint",
+    "jscs",
+    "reporter"
+  ],
+  "author": "Leo Nikkilä <hello@lnikki.la> (https://lnikki.la)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lnikkila/jshint-reporter-jscs/issues"
+  },
+  "homepage": "https://github.com/lnikkila/jshint-reporter-jscs",
+  "dependencies": {
+    "chalk": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-jasmine": "^2.0.1",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.10.0",
+    "jscs": "^1.12.0",
+    "jscs-jsdoc": "^0.4.5",
+    "jshint": "^2.6.3",
+    "jshint-stylish": "^1.0.1",
+    "test-console": "^0.7.1"
+  }
+}
